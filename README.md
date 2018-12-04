@@ -1,4 +1,4 @@
-##FishFB:
+## FishFB:
 Desktop-embedded file browser widget (XP only)
 
 ##
